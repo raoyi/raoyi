@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm a coder, living in Hefei, China
-- 🔭 I’m currently working on Windows / PC and ...
+- 🔭 I’m currently working on Windows PC / Server and have a basic understanding of Linux.
 - 🌱 I’m currently learning Python / PowerShell and ...
 - 📫 How to reach me: <a href="https://raoyi.net" target="_blank">raoyi.net</a>
  
