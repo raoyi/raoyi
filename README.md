@@ -1,8 +1,8 @@
 ## Hi there 👋
-
+I'm a coder, living in Hefei, China
 - 🔭 I’m currently working on Windows / PC and ...
 - 🌱 I’m currently learning Python / PowerShell and ...
-- 📫 How to reach me: raoyi.net
+- 📫 How to reach me: <a href="https://raoyi.net" target="_blank">raoyi.net</a>
  
 <!--
 **raoyi/raoyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
